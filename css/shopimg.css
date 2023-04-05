@@ -1,0 +1,408 @@
+.card-shpi{
+    width: 250px;
+    height:367px;
+    border-radius: 8px;
+    padding: 0px 0px 16px 0px;
+    gap:16px;
+    border: 1px solid #E2E2E2;
+  }
+.cost-move{
+    position: relative;
+    top:35px;
+    padding-left: 16px;
+}
+.cost{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.nick-names{
+    font-size: 13px;
+}
+
+.reting-move{
+    position: relative;
+    padding-left: 190px;
+    top:7px;
+}
+
+.sold-items-move{
+    position: relative;
+    right: 0px;
+    padding-left: 185px;
+    top: 2px;
+}
+.sold-items-move-e{
+  position: relative;
+  right: 0px;
+  padding-left: 175px;
+  top: 2px;
+}
+.sold{
+color: rgba(0, 0, 0, 0.274);
+}
+
+.map-off-move{
+    position: relative;
+    top: 22px;
+    padding-left: 16px;
+}
+.map-off{
+  font-size: 14px;
+  font-weight: 400;
+  color: #828282;
+}
+.card-title{
+    position: relative;
+    top: 28px;
+    padding-left: 15px;
+    font-size: 17px;
+    font-weight:500;
+}
+
+.kkl{
+border: 1px solid black;
+padding: 5px 5px;
+}
+.bt-kw-pt{
+  height: 30px;
+  width: 128px;
+  padding: 6px 0px;
+ background: transparent;
+ -webkit-animation: jello-horizontal 0.9s both;
+ animation: jello-horizontal 0.9s both;
+ border: none;
+ border-radius: 3px;
+ outline: none;
+ color: #52057B;
+ background-color: rgba(82, 5, 123, 0.1);
+}
+
+.bt-kw-pt:hover {
+ background: rgb(82 5 123 / 26%);
+ color: #fff;
+ animation: squeeze3124 0.9s both;
+}
+.ship-img{
+  width: 100%;
+  height:189px;
+  background-color: #E6E8EC;
+}
+.but-mov{
+  position: relative;
+  padding-left: 14px;
+  top: 18px;
+}
+.stern-hsip{
+  position: relative;
+  bottom: 2px;
+  width: 20px;
+  height: 20px;
+}
+.maps-hsip{
+  position: relative;
+  bottom: 2px;
+  width: 12px;
+  height: 15px;
+}
+@keyframes squeeze3124 {
+ 0% {
+  -webkit-transform: scale3d(1, 1, 1);
+  transform: scale3d(1, 1, 1);
+ }
+
+ 30% {
+  -webkit-transform: scale3d(1.25, 0.75, 1);
+  transform: scale3d(1.25, 0.75, 1);
+ }
+
+ 40% {
+  -webkit-transform: scale3d(0.75, 1.25, 1);
+  transform: scale3d(0.75, 1.25, 1);
+ }
+
+ 50% {
+  -webkit-transform: scale3d(1.15, 0.85, 1);
+  transform: scale3d(1.15, 0.85, 1);
+ }
+
+ 65% {
+  -webkit-transform: scale3d(0.95, 1.05, 1);
+  transform: scale3d(0.95, 1.05, 1);
+ }
+
+ 75% {
+  -webkit-transform: scale3d(1.05, 0.95, 1);
+  transform: scale3d(1.05, 0.95, 1);
+ }
+
+ 100% {
+  -webkit-transform: scale3d(1, 1, 1);
+  transform: scale3d(1, 1, 1);
+ }
+}
+
+.laptop-lap{
+  position: relative;
+  top: 30px;
+  left: 35px;
+  width:186px;
+  height:130px;
+}
+.shiping-ting-cards{
+  width: 20%;
+  height:385px;
+}
+.res-ship-shop{
+  display: inline-flex;
+}
+
+.keyb{
+  position: relative;
+    top: 30px;
+    left: 35px;
+    width: 210px;
+    height: 140px;
+}
+.b-sh{
+  position: relative;
+  left: 40px;
+  top: 25px;
+  width: 166px;
+  height: 130px;
+}
+.iph-12{
+  position: relative;
+  top: 30px;
+  left: 20px;
+  width: 178px;
+  height: 130px;
+}
+.shir-b{
+  position: relative;
+  left: 35px;
+    width: 170px;
+    height: 160px;
+}
+.beg-ball{
+    position: relative;
+    left: 10px;
+    top: 5px;
+    width: 225px;
+    height: 160px;
+}
+
+.wm-sh{
+  position: relative;
+  right: 10px;
+    bottom: 30px;
+    width: 260px;
+    height: 230px;
+}
+.kette{
+  position: relative;
+  top: 15px;
+    left: 50px;
+    width: 215px;
+    height: 150px;
+}
+
+.ps-3-cons{
+  position: relative;
+  bottom: 14px;
+    right: 18px;
+    width: 260px;
+    height: 175px;
+}
+.sit-sofa{
+  position: relative;
+    top: 5px;
+    left: 50px;
+    width: 145px;
+    height: 175px;
+}
+
+.ship-tef{
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+font-size: 26px;
+font-weight: 600;
+
+}
+
+
+.img-fluid{
+  width: 100%;
+  height: 450px;
+  border-radius: 8px ;
+}
+
+.big-sale-resp{
+position: relative;
+padding-top:50px;
+padding-bottom: 50px;
+
+}
+.b-sofa{
+  position: relative;
+  top: 15px;
+  left: 15px;
+  width: 160px;
+  height: 140px;
+}
+.ipad{
+  position: relative;
+    height: 150px;
+    width: 210px;
+    left: 20px;
+}
+
+.mac-lap{
+  position: relative;
+    left: 25px;
+    top: 5px;
+    width: 220px;
+    height: 140px;
+}
+.men-hat{
+  position: relative;
+    left: 40px;
+    top: 20px;
+    width: 159px;
+    height: 114px;
+}
+.full-beg{
+  position: relative;
+    left: 40px;
+    top: 15px;
+    width: 159px;
+    height: 114px;
+}
+
+.recommendation{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+@media (max-width:1399px){
+  .shiping-ting-cards{
+  width: 24%;
+  height:385px;
+}
+}
+@media (max-width:1199px){
+  .shiping-ting-cards{
+  width: 29%;
+  height:385px;
+}
+}
+@media (max-width:991px){
+  .shiping-ting-cards{
+  width: 38%;
+  height:385px;
+}
+.img-fluid{
+  width: 100%;
+  height: 380px;
+  border-radius: 8px ;
+}
+.ship-tef{
+padding-left: 55px;
+
+}
+.shiping-ting-cards{
+padding-left: 65px;
+}
+}
+@media (max-width:767px){
+  .shiping-ting-cards{
+  width: 51%;
+  height:385px;
+}
+.img-fluid{
+  width: 100%;
+  height: 300px;
+  border-radius: 8px ;
+}
+}
+@media (max-width:575px){
+.gag-tet{
+  padding-top: 1500px;
+}
+.get-ter-pt{
+  padding-top: 1700px;
+}
+
+}
+@media (max-width:574px){
+  .gag-tet{
+    padding-top: 1700px;
+  }
+  
+  }
+  @media (max-width:573px){
+  .ship-tef {
+    position: relative;
+    padding-left: 50px;
+    padding-top: 95px;
+
+}
+.shiping-ting-cards {
+  position: relative;
+  padding-left: 110px;
+  width: 51%;
+  height: 385px;
+}
+    
+    }
+
+
+  @media (max-width:568px){
+    .gag-tet{
+      padding-top: 1800px;
+    }
+    
+    }
+
+    @media (max-width:450px){
+      .img-fluid{
+        width: 100%;
+        height: 230px;
+        border-radius: 8px ;
+      }
+    }
+
+    @media (max-width:409px){
+      .gag-tet{
+        padding-top: 1900px;
+      }
+      
+      }
+
+      @media (max-width:375px){
+        .big-sale-resp {
+          position: relative;
+          padding-top: 50px;
+          padding-bottom: 50px;
+         
+      }
+
+      .shiping-ting-cards {
+
+        padding-left: 55px;
+
+      }
+
+      .ps-3-cons{
+        width: 245px;
+      }
+      .recommendation{
+        padding-top: 70px;
+        padding-bottom: 70px;
+        font-size: 23px;
+        font-weight: 600;
+      }
+      }

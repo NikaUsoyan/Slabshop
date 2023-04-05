@@ -1,0 +1,197 @@
+.sh-wm-s {
+    width: 100%;
+    height: 169px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.svg-flug {
+    position: relative;
+    width: 72px;
+    height: 73px;
+}
+
+.bs-shop-img-s {
+    position: relative;
+    bottom: 40px;
+    padding-left: 90px;
+    padding-bottom: 90px;
+}
+
+
+.super-title {
+    position: relative;
+    bottom: 130px;
+    padding-left: 82px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.verification {
+    position: relative;
+    bottom: 140px;
+    padding-left: 82px;
+    font-size: 13px;
+    font-weight: 500;
+    color: #4364F7;
+}
+
+.ptichka {
+    position: relative;
+    bottom: 1px;
+    width: 13px;
+    height: 14px;
+}
+
+.pis-sh-bs {
+    position: relative;
+    bottom: 150px;
+    padding-left: 8px;
+    width: 240px;
+    height: 60px;
+
+}
+
+.-bs-sh {
+    position: relative;
+    top: 10px;
+    padding-left: 75px;
+    width: 240px;
+    height: 60px;
+
+}
+
+.-bs-sh- {
+    position: relative;
+    padding-left: 155px;
+    width: 240px;
+    height: 60px;
+}
+
+.it-pr {
+    position: relative;
+    padding-left: 17px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #828282;
+}
+
+.it-pr- {
+    position: relative;
+    padding-left: 28px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #828282;
+}
+
+.it-pr-num {
+    position: relative;
+    padding-left: 23px;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.line {
+    position: relative;
+    bottom: 48px;
+    left: 73px;
+    height: 30px;
+    width: 1px;
+    background-color: #828282;
+}
+
+.line- {
+    position: relative;
+    bottom: 48px;
+    left: 85px;
+    height: 30px;
+    width: 1px;
+    background-color: #828282;
+}
+
+.sp-tp {
+position: relative;
+bottom: 100px;
+}
+.sp-tp-{
+position: relative;
+bottom: 150px;
+}
+.best-sh-h{
+padding-top: 50px;
+padding-bottom: 50px;
+font-size: 26px;
+font-weight: 600;
+}
+
+.card-best-shop{
+width: 259px;
+height:330px;
+border-radius: 8px;
+padding: 0px 0px 16px 0px;
+gap:16px;
+border: 1px solid #E2E2E2;
+}
+.res-best-shop{
+display: inline-flex;
+}
+.shiping-best-cards{
+width: 20%;
+height:350px;
+}
+@media (max-width:1399px){
+.shiping-best-cards{
+width: 24%;
+height:350px;
+}
+}
+@media (max-width:1199px){
+.shiping-best-cards{
+width: 29%;
+height:350px;
+}
+}
+@media (max-width:991px){
+.shiping-best-cards{
+    padding-left: 65px;
+width: 38%;
+height:350px;
+}
+.best-sh-h{
+    padding-left: 55px;
+}
+}
+@media (max-width:767px){
+.shiping-best-cards{
+width: 51%;
+height:350px;
+}
+.gogik-tik{
+    padding-left: 10px;
+}
+
+.best-sh-h {
+    padding-left: 35px;
+
+}
+}
+
+@media (max-width:575px){
+.gogik-tik{
+    padding-top: 4200px;
+}
+}
+@media (max-width:375px){
+    .best-sh-h {
+        padding-left: 15px;
+    
+    }  
+    .shiping-best-cards{
+        padding-left: 45px;
+        width: 51%;
+        height:350px;
+        }
+}
+
+
+

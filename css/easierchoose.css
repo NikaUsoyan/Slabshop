@@ -1,0 +1,250 @@
+.resp-card{
+    position: relative;
+    width: 250px;
+    height: 111px;
+    border-radius: 8px;
+    padding: 16px 24px 16px 24px;
+    gap:24px;
+    cursor: pointer;
+  }
+  .fire{
+    background: linear-gradient(90deg, #BF5AE0 0%, #A811DA 100%);
+  
+  }
+  .colod{
+    background: linear-gradient(90deg, #F85032 0%, #E73827 100%);
+  
+  }
+  .heart{
+    background: linear-gradient(90deg, #FE8C00 0%, #F83600 100%);
+  
+  }
+  .-market-{
+    background: linear-gradient(90deg, #F857A6 0%, #FF5858 100%);
+  
+  }
+  .se{
+    background: linear-gradient(90deg, #06BEB6 0%, #48B1BF 100%);
+  }
+  .-fire-{
+    width: 37px;
+    height: 38px;
+  }
+  .pri-title{
+    position: relative;
+    top: -30px;
+    right: -60px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+  
+  }
+  
+  .pri-name{
+  font-size: 14px;
+  font-weight: 400;
+  color: #ffffff;
+  }
+  .pri-stock{position: relative;
+    padding-left: 145px;
+    top: -20px;
+    font-size: 13px;
+  font-weight: 400;
+  color: #ffffff;
+  
+  }
+  .easi-resp{
+  display: inline-flex;
+  padding: 2px 0px;
+  
+  }
+  .easi{
+    padding-top: 140px;
+    width: 100%;
+  }
+  .e-r-p{
+    position: relative;
+    top: 150px;
+    font-size: 24px;
+    font-weight: 600;
+  }
+  .New-Features{
+    cursor: pointer;
+    position: relative;
+    right: -280px;
+    top: 95px;
+    width: 120px;
+    height: 40px;
+    border-radius: 4px;
+    padding:8px 10px ;
+    gap: 8px;
+    color:#52057B;
+    background-color: rgba(82, 5, 123, 0.1);
+  }
+  .card-ifnos{
+    position: relative;
+    width: 280px;
+    height: 140px;
+    border-radius: 8px;
+    gap: 24px;
+    padding: 24px;
+    border:1px solid #E2E2E2;
+  }
+  .ifnos-p{
+    position: relative;
+    bottom: 7px;
+    left: 28px;
+    font-size: 13px;
+    font-weight: 600;
+  }
+  .ifnos-img{
+    position: relative;
+    left: 10px;
+    bottom: 5px;
+    width: 100%;
+  }
+  .ifnos-im{
+  width: 100px;
+  height: 50px;
+  border-radius: 6px;
+  
+  }
+  .ifn-carw{
+    width: 300px;
+    height: 150px;
+  }
+  .cel-g{
+    position: absolute;
+    width: 4px;
+    height: 40px;
+    left: 35px;
+    top: 18px;
+    background-color: #0052D4;
+  }
+  .cel-h{
+    position: absolute;
+    width: 4px;
+    height: 40px;
+    left: 35px;
+    top: 18px;
+    background-color: #EC008C;
+  }
+  .cel-j{
+    position: absolute;
+    width: 4px;
+    height: 40px;
+    left: 35px;
+    top: 18px;
+    background-color: #892CDC;
+  }
+  .cel-k{
+    position: absolute;
+    width: 4px;
+    height: 40px;
+    left: 35px;
+    top: 18px;
+    background-color: #E73827;
+  }
+  .inf-hr{
+   color: #E2E2E2;
+  }
+  .hr-inf{
+    position: relative;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+@media (max-width:991px){
+  .e-r-p{
+    padding-left: 55px;
+    padding-bottom: 5px;
+}
+.New-Features{
+right: -325px;
+}
+.easi{
+  padding-left: 65px;
+}
+.ifn-carw{
+  padding-left: 65px;
+}
+}
+
+  @media (max-width:575px){
+    .easi{
+      padding-top: 400px;
+      
+    }
+    .New-Features{
+      top: 358px;
+    }
+    .e-r-p{
+      top: 415px;
+    }
+  }
+  @media (max-width:573px){
+
+    .e-r-p{
+      padding-left: 50px;
+  }
+  .New-Features{
+    position: relative;
+    top: 365px;
+    left: 330px;
+  }
+
+  .easi{
+    position: relative;
+    padding-left: 110px;
+  }
+  .ifn-carw {
+    position: relative;
+    padding-left: 95px;
+    width: 300px;
+    height: 150px;
+}
+}
+  @media (max-width:568px){
+    .easi{
+      padding-top: 500px;
+      
+    }
+    .New-Features{
+      top: 461px;
+    }
+    .e-r-p{
+      top: 515px;
+    }
+  }
+
+  @media (max-width:460px){
+    .e-r-p{
+     padding-bottom: 50px;
+    }
+    .New-Features {
+      left: 60px;
+  }
+  }
+
+  @media (max-width:409px){
+    .easi{
+      padding-top: 600px;
+      
+    }
+    .New-Features{
+      right: -10px;
+      top: 580px;
+    }
+    .e-r-p{
+      top: 605px;
+    }
+  }
+  @media (max-width:375px){
+    .easi{
+      padding-left: 45px;
+    }
+    .ifn-carw{
+      padding-left: 35px;
+    }
+  }

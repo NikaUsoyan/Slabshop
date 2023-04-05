@@ -1,0 +1,199 @@
+.footer {
+    width: 100%;
+    position: relative;
+    height: auto;
+  }
+  .footer .col {
+    width: 140px;
+    height: auto;
+    float: left;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 0px 20px 20px 20px;
+  }
+  
+  .footer .col ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .footer .col ul li {
+      color: #828282;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 5px 0px 5px 0px;
+    cursor: pointer;
+    transition: .2s;
+    -webkit-transition: .2s;
+    -moz-transition: .2s;
+  }
+  
+  .footer .col ul li:hover {
+      color: #504f4f;
+    transition: .1s;
+    -webkit-transition: .1s;
+    -moz-transition: .1s;
+  }
+  .Brand{
+  padding-bottom: 30px;
+  font-size: 26px;
+  font-weight: 600;
+  }
+  .brutin{
+      font-size: 16px;
+      font-weight: 600;
+  }
+  .small-brutin{
+      font-size: 14px;
+      font-weight: 400;
+      color: #828282;
+  }
+  .slab-title{
+    font-size: 16px;
+    font-weight: 500;
+    color: #828282;
+  }
+
+ .txt-br-readmore{
+  font-size: 16px;
+  font-weight: 600;
+  color: black;
+ }
+
+ .fot-tip{
+  border-top: 1px solid #E2E2E2;
+  padding-top: 30px;
+
+ }
+ .Rights-te{
+  font-size: 14px;
+  font-weight: 500;
+ }
+ .pri-vec{
+  padding: 0px 8px;
+  font-size: 14px;
+  font-weight: 500;
+  color: black;
+ }
+ .privec{
+  position: relative;
+  bottom: 35px;
+ padding-left: 1000px;
+ }
+
+ @media (max-width:1399px){
+  .privec{
+    position: relative;
+    bottom: 35px;
+   padding-left: 820px;
+   }
+ }
+ @media (max-width:1199px){
+  .privec{
+    position: relative;
+    bottom: 35px;
+   padding-left: 650px;
+   }
+ }
+  @media (max-width:991px){
+  .privec{
+    position: relative;
+    bottom: 35px;
+   padding-left: 470px;
+   }
+   .Rights-te{
+    font-size: 12px;
+    font-weight: 500;
+   }
+   .pri-vec{
+    padding: 0px 8px;
+    font-size: 12px;
+    font-weight: 500;
+    color: black;
+   }
+ }
+ @media (max-width:767px){
+  .privec{
+    position: relative;
+    bottom: 35px;
+   padding-left: 315px;
+   }
+   .Rights-te{
+    font-size: 10px;
+    font-weight: 500;
+   }
+   .pri-vec{
+    padding: 0px 8px;
+    font-size: 10px;
+    font-weight: 500;
+    color: black;
+   }
+ }
+ @media (max-width:575px){
+  .privec{
+    position: relative;
+    bottom: 35px;
+   padding-left: 315px;
+   }
+   .Rights-te{
+    font-size: 8px;
+    font-weight: 500;
+   }
+   .pri-vec{
+    padding: 0px 8px;
+    font-size: 8px;
+    font-weight: 500;
+    color: black;
+   }
+ }
+ @media (max-width:549px){
+  .privec{
+    position: relative;
+    bottom: 35px;
+   padding-left: 290px;
+   }
+
+ }
+ @media (max-width:521px){
+  .privec{
+    position: relative;
+    bottom: 35px;
+   padding-left: 250px;
+   }
+
+ }
+ @media (max-width:475px){
+  .privec{
+    position: relative;
+    bottom: 35px;
+   padding-left: 200px;
+   }
+   .pri-vec{
+    padding: 0px 8px;
+    font-size: 7px;
+    font-weight: 700;
+    color: black;
+   }
+   .Rights-te{
+    font-size: 7px;
+    font-weight: 700;
+   }
+ }
+ @media (max-width:407px){
+  .privec{
+    position: relative;
+    bottom: 35px;
+   padding-left: 180px;
+   }
+   .pri-vec{
+    padding: 0px 8px;
+    font-size: 6px;
+    font-weight: 700;
+    color: black;
+   }
+   .Rights-te{
+    font-size: 6px;
+    font-weight: 700;
+   }
+ }
