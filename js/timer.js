@@ -32,3 +32,16 @@ var x = setInterval(function() {
   }
   
 }, 1000);
+
+function patatas() {
+  var x = document.getElementById("mydiv");
+  var p = document.getElementById("sss");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    
+    p = document.getElementById("sss").innerHTML =( "Hide ");
+  } else {
+    x.style.display = "none";
+    p = document.getElementById("sss").innerHTML =( "Show ");
+  }
+}
