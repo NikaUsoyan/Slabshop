@@ -86,19 +86,19 @@ img{
 
 @media (max-width:1399px){
   img{
-    width: 825px;
+    width: 800px;
     
   }
 }
 @media (max-width:1199px){
   img{
-    width: 645px;
+    width: 620px;
   }
 
 }
 @media (max-width:991px){
   img{
-    width: 417px;
+    width: 385px;
     height: 200px;
   }
   .swt {
@@ -118,7 +118,7 @@ img{
 @media (max-width:767px){
   
   img{
-    width: 332px;
+    width: 305px;
     height: 195px;
   }
   
