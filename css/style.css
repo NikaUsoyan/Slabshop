@@ -484,6 +484,9 @@ align-content: center;
         padding-left: 0px;
         top: 365px;
     }
+    #mydiv{
+        padding-bottom:3900px;
+    } 
 }
 
 @media (max-width:572px){
